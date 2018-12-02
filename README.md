@@ -10,6 +10,6 @@ vim 8.x only
     cp ./plugin/bsw.vim /usr/share/vim/vim8.x/plugin
 
 ## usage
-+ctrl-l : open/close view.
-+ctrl-j : switch next buffer.
-+ctrl-k : switch previous buffer.
++ ctrl-l : open/close view.
++ ctrl-j : switch next buffer.
++ ctrl-k : switch previous buffer.
