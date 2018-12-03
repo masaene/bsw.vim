@@ -98,6 +98,7 @@ function bsw#refresh_view(prev_win_no,current_buf_no)
 		endfor
 		call cursor(l:current_line,1)
 		setlocal cursorline
+		setlocal number
 		call win_gotoid(a:prev_win_no)
 	endif
 endfunction
